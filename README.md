@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Mostly exell in python and trying my berst to make rust my main language. My main motive is to make innovative projects which make me learn the ropes of my main languages and develop more skills at the same time. 
 ### Catch me on these Socials: 
 
-[![Vaimer9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaimer9&theme=dracula)]((https://github.com/anuraghazra/github-readme-stats)
-)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaimer9&show_icons=true&theme=dracula)
+
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaimer9&theme=dracula)]((https://github.com/anuraghazra/github-readme-stats)
 ) 
 

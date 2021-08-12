@@ -5,7 +5,6 @@ Mostly exell in python and trying my berst to make rust my main language. My mai
  
 
 ![Vaimer9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaimer9&show_icons=true&theme=dracula)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaimer9&theme=dracula)
 
 ### Catch me on these Socials:

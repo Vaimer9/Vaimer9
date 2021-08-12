@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Vaimer9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaimer9&theme=dracula&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
+[![Vaimer9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaimer9&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaimer9&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,4 +1,4 @@
-### Vaimer9' Profile
+# Vaimer9' Profile
 
 <!--
 **Vaimer9/Vaimer9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Mostly exell in python and trying my berst to make rust my main language. My main motive is to make innovative projects which make me learn the ropes of my main languages and develop more skills at the same time. 
-# Catch me on these Socials: 
+### Catch me on these Socials: 
 
 ---- **Discord**   => Vaimer9#0420 
 

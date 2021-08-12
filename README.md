@@ -19,6 +19,7 @@ Mostly exell in python and trying my berst to make rust my main language. My mai
 ### Catch me on these Socials: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaimer9&show_icons=true&theme=dracula)
+
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaimer9&theme=dracula)]((https://github.com/anuraghazra/github-readme-stats)
 ) 
 

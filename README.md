@@ -25,6 +25,8 @@ Mostly exell in python and trying my berst to make rust my main language. My mai
 ---- **Twitter**   => [@Vaimer9](https://twitter.com/vaimer9) 
 
 
-![Vaimer9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaimer9&theme=dracula)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaimer9&theme=dracula)
+[![Vaimer9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaimer9&theme=dracula)]((https://github.com/anuraghazra/github-readme-stats)
+)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaimer9&theme=dracula)]((https://github.com/anuraghazra/github-readme-stats)
+)
 

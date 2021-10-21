@@ -1,7 +1,9 @@
 # Vaimer9's Profile
 
 
-Mostly excell in python and trying my best to make rust my main language. My main motive is to make innovative projects which make me learn the ropes of my main languages and develop more skills at the same time. 
+I program in rust.
+Working on my newest project vxplore
+(hope i don't abondon it after 2 weeks :P)
  
 
 ![Vaimer9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaimer9&show_icons=true&theme=dracula)

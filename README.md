@@ -20,7 +20,6 @@
 4. Don't like web dev that much
 
 ## Current Project ->  [**Presence-gui**](https://github.com/Vaimer9/Presence-gui) 
- (hope i don't abondon it after 2 weeks :P)
  
 
 ### Catch me on these Socials:

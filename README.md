@@ -19,7 +19,7 @@
 3. A random Todo-list app which i thought would turn out great (It didn't)
 4. Don't like web dev that much
 
-Working on my newest project [Presence-gui](https://github.com/Vaimer9/Presence-gui) 
+## Current Project ->  [**Presence-gui**](https://github.com/Vaimer9/Presence-gui) 
  (hope i don't abondon it after 2 weeks :P)
  
 

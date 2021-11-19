@@ -24,11 +24,11 @@ Working on my newest project [Presence-gui](https://github.com/Vaimer9/Presence-
  
 
 ### Catch me on these Socials:
----- **Discord**   => Vaimer9#0976 
+- **Discord**   => Vaimer9#0976 
 
----- **Instagram** => [\_\_vaimer\_\_.py](https://www.instagram.com/__vaimer9__.py/) 
+- **Instagram** => [vaimer9.rs](https://www.instagram.com/vaimer9.rs/) 
 
----- **Twitter**   => [@Vaimer9](https://twitter.com/vaimer9) 
+- **Twitter**   => [@Vaimer9](https://twitter.com/vaimer9) 
 
 
 

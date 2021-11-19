@@ -1,7 +1,7 @@
 # Vaimer9's Profile
 
 
-I program in rust.
+## I program in rust.
 Working on my newest project [Presence-gui](https://github.com/Vaimer9/Presence-gui) 
  (hope i don't abondon it after 2 weeks :P)
  

@@ -1,4 +1,4 @@
-## Hello There  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave-hand-joypixels.gif" width="30px">
+## Hello There  <img src="waving-hand-joypixels.gif" width="30px">
 
 **Techonlogies I use:**
 <p align="center">

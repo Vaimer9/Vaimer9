@@ -1,33 +1,12 @@
-# Vaimer9's Profile
+## Hello There <img src="https://raw.githubusercontent.com/Vaimer9/Vaimer9/main/wave.gif" width="30px">
 
-
-## Things I do:
-### Rust programming
-1. Mostly systems programming with rust
-2. Working on Presence-gui for discord
-3. Have several CLIs (unnecesary ones)
-
-### Python programming
-1. I am quite ashamed of this, but i don't want to forget the start of my journey
-2. A weather API
-3. Discord RPC client with JSON intergration
-4. whole load of useless CLIs
-
-### Web Development
-1. Not much here
-2. Just working on my portfolio
-3. A random Todo-list app which i thought would turn out great (It didn't)
-4. Don't like web dev that much
-
-## Current Project ->  [**Presence-gui**](https://github.com/Vaimer9/Presence-gui) 
- 
-
-### Catch me on these Socials:
-- **Discord**   => Vaimer9#0976 
-
-- **Instagram** => [vaimer9.rs](https://www.instagram.com/vaimer9.rs/) 
-
-- **Twitter**   => [@Vaimer9](https://twitter.com/vaimer9) 
-
-
+**Techonlogies I use:**
+<p align="center">
+<img src="https://img.shields.io/badge/rust-d07f4f.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 

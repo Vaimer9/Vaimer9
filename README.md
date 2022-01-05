@@ -1,6 +1,5 @@
 ## Hello There  <img src="waving-hand-joypixels.gif" width="30px">
 
-<<<<<<< HEAD
 **Mostly used technologies**:
 -  Rust. If I want to create a project, I will be using rust
 - Python. Mostly used to create small webscraping and install scripts
@@ -46,4 +45,4 @@
 - [Crpc](https://github.com/Vaimer9/crpc), An application to set Discord Rich presence from the command line using json
 
 **Here's what im doing right now**
-<img align="right" src="https://lanyard-profile-readme.vercel.app/api/528957911569793027?bg=00000000" />
+<img align="left" src="https://lanyard-profile-readme.vercel.app/api/528957911569793027?bg=00000000" />

@@ -45,4 +45,5 @@
 - [Crpc](https://github.com/Vaimer9/crpc), An application to set Discord Rich presence from the command line using json
 
 **Here's what im doing right now**
-<img align="left" src="https://lanyard-profile-readme.vercel.app/api/528957911569793027?bg=00000000" />
+
+<img align="center" src="https://lanyard-profile-readme.vercel.app/api/528957911569793027?bg=00000000" />

@@ -6,7 +6,7 @@
 - Bash. Personally used to automate certain tasks on my machine
 - Svelte. Never made anything big but I know a lot
 
-**Languages with adequate knowledge in**
+**Technologies with adequate knowledge in**
 - React. Tried it, know some hooks, like svelte better
 - Golang. No reason to use it, if I can do it in go, I can do it in rust but faster
 - Elixier. Trying to add this to the Mostly used technologies

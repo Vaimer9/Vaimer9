@@ -36,8 +36,8 @@
 - Lazygit, its a tui for git, you can't refuse it
 
 **My machine setup**
-- OS - Kubuntu
-- WM - AwesomeWM (I know its wierd I have kubuntu with awesome but I don't wanna change OS)
+- OS - Arch
+- WM - AwesomeWM
 - Shell - zsh (soon [vsh](https://github.com/xmantle/vsh))
 
 **Projects Made by yours truly**

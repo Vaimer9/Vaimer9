@@ -35,4 +35,3 @@
 **Here's what im doing right now**
 <img align="center" src="https://lanyard-profile-readme.vercel.app/api/528957911569793027?bg=00000000" />
 
-### I will be fairly inactive in the entirity of March

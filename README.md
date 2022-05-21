@@ -1,12 +1,12 @@
 ## Hello There  <img src="waving-hand-joypixels.gif" width="30px">
 
 **Mostly used technologies**:
-- Rust. 
-- Bash.
-- Lua.
-- Python.
+- Rust.
 - C/++
 - Haskell.
+- Python.
+- Bash.
+- Lua
 - Svelte.
 
 **Things I want to learn this year**:

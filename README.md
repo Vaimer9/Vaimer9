@@ -1,4 +1,4 @@
-## Hello There  <img src="waving-hand-joypixels.gif" width="30px">
+## Hello There
 
 **Mostly used technologies**:
 - Rust.
